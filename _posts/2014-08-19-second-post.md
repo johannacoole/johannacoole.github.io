@@ -9,7 +9,7 @@ title: Second Post
 ---
 
 
-Go search [Youtube](www.youtube.com) to see some videos!
+Go search [Youtube](http://www.youtube.com) to see some videos!
 
 **Here's a river:**
 
