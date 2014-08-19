@@ -17,4 +17,4 @@ published: true
 
 ## Contact me
 
-[email@domain.com](mailto:johannaecole@gmail.com)
+[johannaecole@gmail.com](mailto:johannaecole@gmail.com)
