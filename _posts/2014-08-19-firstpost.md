@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 ---
 
+[front-matter]
 ## A New Post
 
 Go search [Youtube](www.youtube.com). To see some videos!
