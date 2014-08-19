@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home Page
+title: "First Post!"
 published: true
 ---
 
@@ -11,4 +11,3 @@ published: true
 #####Continued words. 
 
 More words right here!
-
