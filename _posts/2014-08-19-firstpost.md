@@ -5,7 +5,7 @@ published: true
 
 ## A New Post
 
-Go search [Youtube](www.youtube.com). To see some videos!
+Go search [Youtube](www.youtube.com) to see some videos!
 
 Here's a river:
 
