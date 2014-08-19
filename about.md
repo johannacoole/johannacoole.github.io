@@ -2,14 +2,19 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Nature!
 
-### More Information
+# Fun Facts
+* Lemons contain more sugar than strawberries
+* Fire usually moves faster uphill than downhill
+* 85% of plant life is found in the ocean
 
-A place to include any other types of information that you'd like to include about yourself. 
+[Read more here!](http://whatthafact.com/interesting-facts-about-nature/#ixzz3Aq6phcCF)
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+## Contact me
+
+[email@domain.com](mailto:johannaecole@gmail.com)
