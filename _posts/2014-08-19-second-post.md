@@ -2,10 +2,8 @@
 published: true
 ---
 
-<!--- layout: post
----->
 
-## A New Post
+[front-matter](http://jekyllrb.com/docs/frontmatter/)
 
 Go search [Youtube](www.youtube.com) to see some videos!
 
