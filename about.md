@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Nature!
+
 
 # Fun Facts
 * Lemons contain more sugar than strawberries
