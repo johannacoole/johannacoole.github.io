@@ -2,9 +2,8 @@
 published: true
 ---
 
----
-layout: post
----
+<!--- layout: post
+---->
 
 ## A New Post
 
