@@ -7,7 +7,7 @@ published: true
 
 
 
-# Fun Facts
+## Fun Facts
 * Lemons contain more sugar than strawberries
 * Fire usually moves faster uphill than downhill
 * 85% of plant life is found in the ocean
