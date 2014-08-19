@@ -1,12 +1,8 @@
 ---
-published: false
----
-
----
-layout: post
-title: Second Post
 published: true
 ---
+
+
 
 Go search [Youtube](www.youtube.com) to see some videos!
 
